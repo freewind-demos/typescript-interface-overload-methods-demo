@@ -1,4 +1,4 @@
-TypeScript Class Overload Methods Demo
+TypeScript Interface Overload Methods Demo
 ===========================
 
 ```
